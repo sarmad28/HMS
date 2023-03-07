@@ -6,7 +6,6 @@ spring:
     url: jdbc:mysql://localhost:3306/user
     username: root
 
-
   jpa:
     hibernate:
       ddl-auto: update
